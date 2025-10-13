@@ -15,6 +15,7 @@ Features of this habit tracker include the user's ability to:
 * Log habits
 * View habits and their stats
 * View their weekly progress towards completing their habit's goals
+* Delete unnecessary habits
 * Automatically saves habits
 
 This habit tracker also works for multiple users. It saves the user's habits to a JSON file for future usage.
@@ -39,12 +40,12 @@ This habit tracker also works for multiple users. It saves the user's habits to 
     * Add user name
     * Add and log habits
     * View stats and habit progress
+    * Delete habits
     * ***Your habits will be automatically saved using JSON***
 
 ### Future Improvements
 * Add a delete function to delete incorrect habit entries
-* Add a function to remove a log of a habit, if made by mistake
-* Add a GUI interface using PySimpleGUI
+* Add a GUI interface using Tkinkter
 * Add a way to track multiple habtis in one log
 * Add reminders using notifications
 
