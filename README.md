@@ -44,7 +44,7 @@ This habit tracker also works for multiple users. It saves the user's habits to 
     * ***Your habits will be automatically saved using JSON***
 
 ### Future Improvements
-* Add a delete function to delete incorrect habit entries
+* Add a function to remove a log of a habit, if made by mistake
 * Add a GUI interface using Tkinkter
 * Add a way to track multiple habtis in one log
 * Add reminders using notifications
